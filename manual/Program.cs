@@ -10,6 +10,8 @@ namespace manual
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola, este es mi manual");
+
         }
     }
 }
